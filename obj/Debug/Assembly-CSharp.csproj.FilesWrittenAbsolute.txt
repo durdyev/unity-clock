@@ -1,0 +1,17 @@
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/obj/Debug/Assembly-CSharp.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/UnityEngine.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/UnityEditor.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Mono.Cecil.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Unity.DataContract.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/idurdyev/Documents/Projects/Unity/Clock/Temp/bin/Debug/Mono.Cecil.Mdb.dll
